@@ -1,2 +1,3 @@
+Dependence: imagemagick (install in Ubuntu: apt-get install imagemagick)
 This script help you resize your photos. Download script and put in your folder, where keep your photos.
 In terminal run script, example: ruby image.rb
