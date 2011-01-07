@@ -11,7 +11,7 @@ class Resize
 	end
 	
 	def get_files
-		@images = Dir.glob("*.JPG")
+		@images = Dir.glob("*.{JPG,jpg}")
 	end
 	
 	def resize_action
